@@ -1,3 +1,5 @@
+87% accuracy on CIFAR-10
+
 This repository contains the deep learning code for improving the accuracy of CIFAR-10 dataset. 
 I have been able to reach 87% with predefined keras densenet121 model.
 Many functionalities such as learning rate scheduler, image augmentation, normalisation, regularisation etc have been played around with.
